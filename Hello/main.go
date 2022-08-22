@@ -8,6 +8,7 @@ func main() {
 	var Str string = "1111"
 	if Str == "1111" {
 		fmt.Printf("chenboren is sb")
+ 		fmt.Printf("You are a bad boy")
 	} else {
 		fmt.Printf("chenboren is genius")
 		fmt.Printf("You are a bad girl")
