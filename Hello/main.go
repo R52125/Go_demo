@@ -10,6 +10,7 @@ func main() {
 		fmt.Printf("chenboren is sb")
 	} else {
 		fmt.Printf("chenboren is genius")
+		fmt.Printf("You are a bad girl")
 	}
 	// slice
 	// map
