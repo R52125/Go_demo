@@ -11,7 +11,11 @@ func main() {
  		fmt.Printf("You are a bad boy")
 	} else {
 		fmt.Printf("chenboren is genius")
+<<<<<<< Updated upstream
 		fmt.Printf("You are a bad girl")
+=======
+		fmt.Printf("Hey")
+>>>>>>> Stashed changes
 	}
 	// slice
 	// map
