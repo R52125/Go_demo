@@ -6,4 +6,5 @@ type Foo interface {
 
 func SUT(f Foo) {
 	// ...
+	//hello
 }
